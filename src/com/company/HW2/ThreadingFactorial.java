@@ -20,7 +20,7 @@ public class ThreadingFactorial extends RecursiveTask<BigInteger> {
     }
 
 
-    public static void main(String[] args) {
+    public static void main(String[] arg) {
         ForkJoinTask<BigInteger> forkJoinTask = new ThreadingFactorial(22);
         ForkJoinPool forkJoinPool = new ForkJoinPool();
         System.out.println(forkJoinPool.invoke(forkJoinTask));
