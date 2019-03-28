@@ -34,8 +34,6 @@ public class Ui {
         System.out.println("And price:");
         price=scanner.nextInt();
         show(carService.getByYearAndQuotedPrice(year,price));
-
-
     }
 
     private void show(Car[] cars){
