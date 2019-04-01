@@ -1,6 +1,6 @@
-package com.company.HW5.manager;
+package com.company.homework5.manager;
 
-import com.company.HW5.entity.Planet;
+import com.company.homework5.entity.Planet;
 
 public interface StarSystemManager {
     void addPlanet(Planet planet);

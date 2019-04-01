@@ -1,4 +1,4 @@
-package com.company.HW2;
+package com.company.homework2;
 
 
 public class Sorts {

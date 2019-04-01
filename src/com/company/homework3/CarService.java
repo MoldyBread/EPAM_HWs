@@ -1,4 +1,4 @@
-package com.company.HW3;
+package com.company.homework3;
 
 public class CarService {
     private CarRepository carRepository;

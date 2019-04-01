@@ -1,8 +1,8 @@
-package com.company.HW5.implementation;
+package com.company.homework5.implementation;
 
-import com.company.HW5.repository.StarSystem;
-import com.company.HW5.entity.Planet;
-import com.company.HW5.manager.StarSystemManager;
+import com.company.homework5.repository.StarSystem;
+import com.company.homework5.entity.Planet;
+import com.company.homework5.manager.StarSystemManager;
 
 public class StarSystemManagerImpl implements StarSystemManager {
     private StarSystem starSystem;

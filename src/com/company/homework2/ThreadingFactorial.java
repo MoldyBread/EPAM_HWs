@@ -1,5 +1,5 @@
 
-package com.company.HW2;
+package com.company.homework2;
 
 import java.math.BigInteger;
 import java.util.concurrent.ForkJoinPool;

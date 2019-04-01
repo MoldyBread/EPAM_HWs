@@ -1,6 +1,4 @@
-package com.company.HW3;
-
-import java.util.Arrays;
+package com.company.homework3;
 
 public class CarRepository {
 
