@@ -1,11 +1,11 @@
-package com.company.HW5;
+package com.company.homework5;
 
-import com.company.HW5.entity.Planet;
-import com.company.HW5.entity.Satellite;
-import com.company.HW5.entity.Star;
-import com.company.HW5.implementation.StarSystemManagerImpl;
-import com.company.HW5.manager.StarSystemManager;
-import com.company.HW5.repository.StarSystem;
+import com.company.homework5.entity.Planet;
+import com.company.homework5.entity.Satellite;
+import com.company.homework5.entity.Star;
+import com.company.homework5.implementation.StarSystemManagerImpl;
+import com.company.homework5.manager.StarSystemManager;
+import com.company.homework5.repository.StarSystem;
 
 import java.util.ArrayList;
 

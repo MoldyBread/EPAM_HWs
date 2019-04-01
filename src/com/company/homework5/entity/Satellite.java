@@ -1,4 +1,4 @@
-package com.company.HW5.entity;
+package com.company.homework5.entity;
 
 import java.util.Objects;
 
@@ -31,5 +31,4 @@ public class Satellite {
                 "name='" + name + '\'' +
                 ", radius=" + radius +
                 '}';
-    }
-}
+  
