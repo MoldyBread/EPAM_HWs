@@ -1,4 +1,4 @@
-package com.company.HW5.entity;
+package com.company.homework5.entity;
 
 import java.util.ArrayList;
 import java.util.Objects;

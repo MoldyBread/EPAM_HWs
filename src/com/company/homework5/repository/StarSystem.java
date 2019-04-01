@@ -1,7 +1,7 @@
-package com.company.HW5.repository;
+package com.company.homework5.repository;
 
-import com.company.HW5.entity.Planet;
-import com.company.HW5.entity.Star;
+import com.company.homework5.entity.Planet;
+import com.company.homework5.entity.Star;
 
 import java.util.ArrayList;
 import java.util.Objects;

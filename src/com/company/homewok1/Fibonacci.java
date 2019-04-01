@@ -1,4 +1,4 @@
-package com.company.HW1;
+package com.company.homewok1;
 
 public class Fibonacci {
 
